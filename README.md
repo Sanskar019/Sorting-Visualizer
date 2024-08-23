@@ -3,3 +3,4 @@ Developed a web-based application to visualize various sorting algorithms, inclu
 Users can select different sorting algorithms to visualize their step-by-step execution.
 The project aims to provide an educational tool for understanding the mechanics and efficiency of different sorting methods.
 ![destop-sort-visualizer](https://github.com/user-attachments/assets/7d8d0af1-337a-4d58-b495-a2fd9970ab21)
+![mobile-sort-visualizer](https://github.com/user-attachments/assets/2cd408f4-2549-4e67-9739-be12ea989a01)
